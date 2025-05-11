@@ -62,6 +62,7 @@ README.md ← This file
 2. Ensure you have Jupyter Notebook or JupyterLab installed.
 3. Place `owid-covid-data.csv` in the same folder.
 4. Open and run `COVID-19_Global_Tracker.ipynb` cell by cell.
+**Note** - In case of issues with the csv file in the repo due to github LFS limit, kindly download the dataset from the provided link
 
 ---
 
